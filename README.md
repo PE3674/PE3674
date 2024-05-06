@@ -1,9 +1,55 @@
-- Hi, I’m Peter
-- I’m interested in cybersecurity
-- I’m currently learning wireshark and other related tools used in a SOC
-- You can reach me through my email or LinkedIn
-- Began my journey in 2023. I took a 3 week intro class, then self taught and passed the CompTIA Security+ certification, on the first attempt.
-- Now I'm trying to learn everything I can to get into a SOC position.
+# Hello, I'm Peter Ehlert
+<a href="www.linkedin.com/in/peter-ehlert-58420185"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I graduated in 2022 with a BS in Criminology, after retiring from Corrections, I am now trying to transistion from the Law Enforcement side to the Cybersecurity side.
+
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a >SIEM Installation/setup</a>|
+| Network Traffic Monitoring and Attack Detection | <a >Detection Lab</a>|
+|         | |
+|       | |
+|                   | |
+|  | |
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   
+</div>
+
+### Endpoint
+<div>
+        <img src="https://img.shields.io/badge/-Autopsy-4B275F?style=for-the-badge&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Alien%20Vault%20OSSIM-007ACC?&style=for-the-badge&logo=AlienVault&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Intro%20to%20Network%20Analysis-007ACC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Security%20Blue%20Team%20Intro%20to%20Digital%20Forensics-007ACC?style=for-the-badge" />
+
+
+</div>
+
+## Projects
+- Detection Lab
+- 
 
 <!---
 PE3674/PE3674 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
