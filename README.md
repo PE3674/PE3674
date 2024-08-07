@@ -49,7 +49,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Detection Lab
-- 
+- SQL Lab
 
 <!---
 PE3674/PE3674 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
