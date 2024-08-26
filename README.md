@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a >SIEM Installation/setup</a>|
 | Network Traffic Monitoring and Attack Detection | <a >Detection Lab</a>|
-|         | |
+| SQL                                           |SQL Intro Lab|
 |       | |
 |                   | |
 |  | |
