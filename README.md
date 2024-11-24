@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a >Detection Lab</a>|
 | SQL                                           |SQL Intro Lab|
 | Linux                                         |Linux permissions lab |
-|                   | |
+| AI and Python                                 | MIT Encryption File System|
 |  | |
 
 ## Tools
